@@ -9,7 +9,7 @@ Zarrita.js reads Zarr chunks directly from the browser using `fetch`. The `@deve
 ## Why it matters
 
 - **No tiling pipeline:** skip the offline pre-render, the tile cache, and the tile server
-- **Native cloud-native:** the data lives in Zarr on object storage, the renderer reads it directly
+- **Cloud-optimized:** the data lives in Zarr on object storage, the renderer reads it directly
 - **Laptop-grade performance:** the GPU does the heavy lifting
 
 ## Live demos
